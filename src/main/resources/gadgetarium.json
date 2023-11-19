@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gadgetarium-3e72a",
+  "private_key_id": "ee0826c9db77b485dd2dbff1fca7d58c106a141f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZY9xWdc7Ip3DE\n34UCyOMBhR/SYBHxIQw25wCOTu/c6Uox/91BfRXQB8WjqchGp1oosWaEBXx4YWge\nkDbT4D9odKsML8Bz2DSbCH2X6qwijScRziLTD3ctFPjGrN3C0KnMxEWYayRKQ8PE\nwgCXLXJgcRZzW8Pr+nGufabrXFAg/xeBgdMI4ITefCi95SevROdet5wP4k/OEDBB\n+by5pKixNKjZORb8vw59A1252VsdhogIfJ6W7tGdGA5trIy04Ke6qc6jfrl6n8Ck\nE7EAuN7SvZt33PbT6Cwgv0RdDVFJlY+P2YmYZgkdGC8VwJrmBYmc7ZohnGGCAxF+\nyyp/HuONAgMBAAECggEAHfeWXuPQDNiKItWGLi9XnbTGgXdlWcZauvHGoZdvmNYe\n+HwDOd0epeYAYHKN7XFx7ASic2YXNbgFxJrQOA5kZ0eX8a7eeomuHMYDnC7JKl0n\natyt78bkwJXwwmB/lHSzx4qx5lQ0tTkYslWlA7IL35APTnkyraPBSpK/MRgxYo7O\nlIdIB2gDoq7WM64cEMk332O+mCD5aIP4LmXpHZA/wAmsiMSaxiR5jFuuA9+eOMqQ\n0I2MembBcFI41wANyEzpoOd2ZhkHPg3w0ergAjJ7kDNjxa78MTPCn5A7MI4YpAUh\nluogCdP6FfBUGd5n0zvbQnnE+qqFhb666rbAx5ai4QKBgQDyIMBgSebIpqqDunE/\nirvcdx4bOluR0wMElAi+92noQ4mbbPUgCL5eDH6cufIdWABmGJcwHGTMF0PND3FU\nxpU6d1BTUe+5kV0ef8WoAS+k0le7jmNOOCNBbWqsBJTfC3URvp8+U0UwnHfCzFGw\nvCDLGm+fvteHXJyLyUYtjcrFoQKBgQDl2EiMaBSBSycBOjf1+VP/wh0ytrG02XgM\n/NIgDcdbKp5rWnO17YN+ICKkWYypHswgyT3rN8OvG6z2SoFF0eVU/3sUkX7AzZ6s\nmh93TbBLnVlCMDl1Xt47wVqm5wm8lmqEi8Ly2qOOzvOTXVF7TL/fEPB80jA/5wKh\nlGdBjNP+bQKBgQCCqCPHkfmEi1N2VBSqik3HsUvAu6QQM8LsJIn3qwEugctu4MQB\n7lXz4GAuaLT7GrLUZS6ompnV/DPtIwkwCx0Z+KqS26M2Cvgp7h8WAtXX5l3LaxGx\nct+rfcTTYIGJPuCEm83IzxyGF9kUeDcY3NwBXZmgpVYeyF39nLZO/LXQIQKBgCrD\n/Wuyie4sr4s46+SmiYyS75/aAmKl/AJeoDI6nhdGbMeIwvLcyJSVIhz2VIe7JTwM\ndaroa06PlbUV08vL7CHOj3YaRD1XhOiUnLo0CFNpaYw5MNe32R3BMj7Pyi3+xr72\nykUpjTkrJIMM3/ZTJ3g3zKdM7JFXSFQMKtI1g9RZAoGABCWh9fkVFhpwEz2LoYfl\nbCX+w6awEveLCzs0Tzts0iy82DNvCOj/SCulf7M7BCcXGhYO8McT4XoBJWLH4kMS\nW8SCghDLP0IILem4OSqyj4mmQPy+/NjPxIjb1yxCbcyBXUilE/uKuJ+NME6Xbn7u\nuhNMfSXEKKu3yiXatK9OfLM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-swzhr@gadgetarium-3e72a.iam.gserviceaccount.com",
+  "client_id": "100659173010864279562",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-swzhr%40gadgetarium-3e72a.iam.gserviceaccount.com"
+}
